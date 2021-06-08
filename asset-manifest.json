@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/blog/static/js/main.ef257296.chunk.js",
+    "main.js.map": "/blog/static/js/main.ef257296.chunk.js.map",
+    "runtime-main.js": "/blog/static/js/runtime-main.b040ca96.js",
+    "runtime-main.js.map": "/blog/static/js/runtime-main.b040ca96.js.map",
+    "static/css/2.d1218b59.chunk.css": "/blog/static/css/2.d1218b59.chunk.css",
+    "static/js/2.4bc05936.chunk.js": "/blog/static/js/2.4bc05936.chunk.js",
+    "static/js/2.4bc05936.chunk.js.map": "/blog/static/js/2.4bc05936.chunk.js.map",
+    "index.html": "/blog/index.html",
+    "static/css/2.d1218b59.chunk.css.map": "/blog/static/css/2.d1218b59.chunk.css.map",
+    "static/js/2.4bc05936.chunk.js.LICENSE.txt": "/blog/static/js/2.4bc05936.chunk.js.LICENSE.txt",
+    "static/media/avatar.94eba1de.png": "/blog/static/media/avatar.94eba1de.png",
+    "static/media/font-awesome.min.css": "/blog/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/kofi.9a081461.png": "/blog/static/media/kofi.9a081461.png",
+    "static/media/logo.1b917980.png": "/blog/static/media/logo.1b917980.png",
+    "static/media/mobilead.06938803.png": "/blog/static/media/mobilead.06938803.png",
+    "static/media/paypal.0255da10.jpg": "/blog/static/media/paypal.0255da10.jpg",
+    "static/media/pcad.83aedfb2.png": "/blog/static/media/pcad.83aedfb2.png",
+    "static/media/sakura_footer.f18563ea.svg": "/blog/static/media/sakura_footer.f18563ea.svg",
+    "static/media/sponsor.ce241843.png": "/blog/static/media/sponsor.ce241843.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b040ca96.js",
+    "static/css/2.d1218b59.chunk.css",
+    "static/js/2.4bc05936.chunk.js",
+    "static/js/main.ef257296.chunk.js"
+  ]
+}
